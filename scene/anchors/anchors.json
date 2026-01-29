@@ -1,0 +1,46 @@
+{
+  "anchors": [
+    {
+      "id": "CAM_DEFAULT",
+      "position": [0, 1.6, 5],
+      "target": [0, 0, 0],
+      "yawBounds": [-0.5, 0.5],
+      "heightBounds": [1.2, 2.0]
+    },
+    {
+      "id": "CAM_ABOUT",
+      "position": [-1.5, 1.6, 3],
+      "target": [-1, 0, 0],
+      "yawBounds": [-0.3, 0.3],
+      "heightBounds": [1.4, 1.8]
+    },
+    {
+      "id": "CAM_PROJECTS",
+      "position": [1.5, 1.6, 3],
+      "target": [1, 0, 0],
+      "yawBounds": [-0.3, 0.3],
+      "heightBounds": [1.4, 1.8]
+    },
+    {
+      "id": "CAM_EXPERIMENTS",
+      "position": [0, 1.6, 2.5],
+      "target": [0, 0.5, 0],
+      "yawBounds": [-0.2, 0.2],
+      "heightBounds": [1.5, 1.7]
+    },
+    {
+      "id": "CAM_NOTES",
+      "position": [-2, 1.6, 4],
+      "target": [-1.5, 0, 0],
+      "yawBounds": [-0.3, 0.3],
+      "heightBounds": [1.4, 1.8]
+    },
+    {
+      "id": "CAM_CONTACT",
+      "position": [2, 1.6, 4],
+      "target": [1.5, 0, 0],
+      "yawBounds": [-0.3, 0.3],
+      "heightBounds": [1.4, 1.8]
+    }
+  ]
+}
